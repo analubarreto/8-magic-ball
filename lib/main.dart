@@ -32,7 +32,7 @@ class _MagicBallPageState extends State<MagicBallPage> {
           Text(
             'Ask me anything: ',
             style: TextStyle(
-                color: Colors.red, fontSize: 40.0, fontWeight: FontWeight.w300),
+                color: Colors.deepPurpleAccent, fontSize: 40.0, fontWeight: FontWeight.w300),
           ),
           SizedBox(
             height: 30.0,
